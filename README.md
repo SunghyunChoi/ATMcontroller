@@ -37,7 +37,7 @@ user1 | Penny | 10000000 | 100000 | bear | 0
 user2 | Servi | 10000001 | 100000 | bear | 0
 <br/>
 
-You can test the ATM with either Using Unit Test Functions or Console.
+You can test the ATM with using either Unit Test Functions or Console.
 
 <br/>
 
