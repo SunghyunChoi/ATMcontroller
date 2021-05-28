@@ -1,7 +1,8 @@
 # ATMcontroller
 ```
 This is implementation of an ATM controller.
-Simple Display, CashBin, CardReader, Bank module is added to test the ATM Controller. ATM Controller reads user input from the Display Module's touchscreen and handles user's request by interacting with Bank module.
+ Simple Display, CashBin, CardReader, Bank module is added to test the ATM Controller.
+ ATM Controller reads user input from the Display Module's touchscreen and handles user's request by interacting with Bank module.
 ```
 
 <p align=center>
@@ -38,13 +39,14 @@ user1 | Penny | 10000000 | 100000 | bear | 0
 user2 | Servi | 10000001 | 100000 | bear | 0
 <br/>
 
-You can test the basic of an ATM with either Using Unit Test Functions or Console.
+You can test the ATM with either Using Unit Test Functions or Console.
 
 <br/>
 
 ### 1. Using Functions
 
-You can use the test functions for the basic operations of an ATM. Test functions will return (True/False, result) and print it on console.
+ You can use the test functions for the basic operations of an ATM.
+ Test functions will return (True/False, result) and print it on console.
 ```
 testDeposit(bearATM, user1.card, '1234', 5000)
 testExit(bearATM)
@@ -78,7 +80,7 @@ Success
 
 
 ### 2. Using Console
-You can run the ATM and test it using console. 
+You can run the ATM and test it using console.
 If you run 'testATM.py', the last line of the code will start the Console Interaction.
 ```
 bearATM.run(user1.card)
