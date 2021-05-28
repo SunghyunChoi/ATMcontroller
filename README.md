@@ -1,9 +1,7 @@
 # ATMcontroller
-```
 This is implementation of an ATM controller.
- Simple Display, CashBin, CardReader, Bank module is added to test the ATM Controller.
- ATM Controller reads user input from the Display Module's touchscreen and handles user's request by interacting with Bank module.
-```
+Simple Display, CashBin, CardReader, Bank module is added to test the ATM Controller.
+ATM Controller reads user input from the Display Module's touchscreen and handles user's request by interacting with Bank module.
 
 <p align=center>
 <img width="589" alt="ATMController" src="https://user-images.githubusercontent.com/32299611/119831296-1bc68180-bf38-11eb-8a47-34b25b15acb0.png">
